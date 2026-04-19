@@ -1,0 +1,11 @@
+title: FoglineSF Data Projects
+description: Data journalism projects accompanying the FoglineSF newsletter, covering San Francisco zoning, housing, transit, and civic data.
+url: https://foglinesf.github.io
+author: FoglineSF
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

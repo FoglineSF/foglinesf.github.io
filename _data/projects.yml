@@ -1,0 +1,27 @@
+- title: SF Family Zoning Plan 3D Map
+  date: 2026-04-01
+  date_label: April 2026
+  tags: [zoning, housing, maps]
+  description: Interactive 3D visualization of proposed building heights under San Francisco's new upzoning plan.
+  image: /assets/images/sf-family-zoning-plan.png
+  project_url: https://foglinesf.github.io/sf-family-zoning-plan/maps/3d_map.html
+  article_url: https://www.foglinesf.com/p/sf-family-zoning-plan
+  reddit_url: https://www.reddit.com/r/sanfrancisco/comments/1smd2ok/nextdoor_vs_reality_what_sfs_new_upzoning/
+
+- title: "The $14 Burrito: Why SF Inflation Feels High"
+  date: 2026-02-01
+  date_label: February 2026
+  tags: [inflation, economy, cost-of-living]
+  description: A look at why San Francisco's everyday prices feel like they've risen faster than the official 2.5% inflation figure suggests.
+  image: /assets/images/14-burrito-sf-inflation.png
+  article_url: https://www.foglinesf.com/p/the-14-burrito-why-san-francisco-inflation-feels-higher-than-2-5
+  reddit_url: https://www.reddit.com/r/sanfrancisco/comments/1q6jqp0/the_14_burrito_why_san_francisco_inflation_feels/
+
+- title: Why the 33 Is the Best Bus in the SF Muniverse
+  date: 2026-01-01
+  date_label: January 2026
+  tags: [transit, muni, buses]
+  description: A case for the 33 as Muni's most versatile route, and the neighborhoods it threads together across the city.
+  image: /assets/images/muni-33-best-bus.png
+  article_url: https://www.foglinesf.com/p/why-the-33-is-the-best-bus-in-the-sf-muniverse-90f4
+  reddit_url: https://www.reddit.com/r/sanfrancisco/comments/1qcr7gd/why_the_33_is_the_best_bus_in_the_sf_muniverse/
